@@ -1,0 +1,29 @@
+DAY INCREMENT 6
+Average partitions in pull: 6.075
+Partition Min\Max: 5 | 7
+Average day length of pull: 36.45
+Average unnecessary days in pull: 6.008333333333334
+
+DAY INCREMENT 7
+Average partitions in pull: 5.35
+Partition Min\Max: 5 | 6
+Average day length of pull: 37.45
+Average unnecessary days in pull: 7.008333333333334
+
+DAY INCREMENT 8
+Average partitions in pull: 4.808333333333334
+Partition Min\Max: 4 | 5
+Average day length of pull: 38.46666666666667
+Average unnecessary days in pull: 8.025
+
+DAY INCREMENT 9
+Average partitions in pull: 4.375
+Partition Min\Max: 4 | 5
+Average day length of pull: 39.375
+Average unnecessary days in pull: 8.933333333333334
+
+DAY INCREMENT 10
+Average partitions in pull: 4.05
+Partition Min\Max: 4 | 5
+Average day length of pull: 40.5
+Average unnecessary days in pull: 10.058333333333334
