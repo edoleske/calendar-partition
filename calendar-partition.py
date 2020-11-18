@@ -5,7 +5,7 @@ from statistics import median
 ''' TEST PARAMETERS '''
 start_date = date(2016, 1, 4)
 day_increments = [6,7,8,9,10]
-years_to_test = 2
+years_to_test = 10
 
 ''' OUTPUT OPTIONS '''
 range_detailed = False
